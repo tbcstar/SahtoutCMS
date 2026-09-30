@@ -98,33 +98,33 @@ CREATE TABLE IF NOT EXISTS `profile_avatars` (
 
 -- Listage des données de la table sahtout_site.profile_avatars : ~2 rows (environ)
 INSERT INTO `profile_avatars` (`id`, `filename`, `display_name`, `active`, `created_at`) VALUES
-	(1, '1-0.png', 'Avatar 1', 1, '2025-07-27 14:35:31'),
-	(2, '1-1.png', 'Avatar 2', 1, '2025-07-27 14:35:31'),
-	(3, '2-0.png', 'Avatar 3', 1, '2025-07-27 14:35:31'),
-	(4, '2-1.png', 'Avatar 4', 1, '2025-07-27 14:35:31'),
-	(5, '3-0.png', 'Avatar 5', 1, '2025-07-27 14:35:31'),
-	(6, '3-1.png', 'Avatar 6', 1, '2025-07-27 14:35:31'),
-	(7, '4-0.png', 'Avatar 7', 1, '2025-07-27 14:39:58'),
-	(8, '4-1.png', 'Avatar 8', 1, '2025-07-27 14:43:18'),
-	(9, '5-0.png', 'Avatar 9', 1, '2025-07-27 14:44:07'),
-	(10, '5-1.png', 'Avatar 10', 1, '2025-07-27 14:44:17'),
-	(11, '6-0.png', 'Avatar 11', 1, '2025-07-27 14:45:20'),
-	(12, '6-1.png', 'Avatar 12', 1, '2025-07-27 14:45:30'),
-	(13, '7-0.png', 'Avatar 13', 1, '2025-07-27 14:45:49'),
-	(14, '7-1.png', 'Avatar 14', 1, '2025-07-27 14:47:55'),
-	(15, '8-0.png', 'Avatar 15', 1, '2025-07-27 14:48:09'),
-	(16, '8-1.png', 'Avatar 16', 1, '2025-07-27 14:48:20'),
-	(17, '10-0.png', 'Avatar 17', 1, '2025-07-27 14:48:48'),
-	(18, '10-1.png', 'Avatar 18', 1, '2025-07-27 18:53:56'),
-	(19, '11-0.png', 'Avatar 19', 1, '2025-07-27 18:54:04'),
-	(20, '11-1.png', 'Avatar 20', 1, '2025-07-27 18:54:14'),
-	(21, '28-0.png', 'Avatar 21', 1, '2025-07-27 18:54:24'),
-	(22, '28-1.png', 'Avatar 22', 1, '2025-07-27 18:54:36'),
-	(23, '32-0.png', 'Avatar 23', 1, '2025-07-27 18:54:48'),
-	(24, '32-1.png', 'Avatar 24', 1, '2025-07-27 18:54:57'),
-	(25, '37-0.png', 'Avatar 25', 1, '2025-07-27 18:55:09'),
-	(26, '70-0.png', 'Avatar 26', 1, '2025-07-27 18:55:18'),
-	(27, '70-1.png', 'Avatar 27', 1, '2025-07-27 18:55:29');
+	(1, '1-0.png', '头像 1', 1, '2025-07-27 14:35:31'),
+	(2, '1-1.png', '头像 2', 1, '2025-07-27 14:35:31'),
+	(3, '2-0.png', '头像 3', 1, '2025-07-27 14:35:31'),
+	(4, '2-1.png', '头像 4', 1, '2025-07-27 14:35:31'),
+	(5, '3-0.png', '头像 5', 1, '2025-07-27 14:35:31'),
+	(6, '3-1.png', '头像 6', 1, '2025-07-27 14:35:31'),
+	(7, '4-0.png', '头像 7', 1, '2025-07-27 14:39:58'),
+	(8, '4-1.png', '头像 8', 1, '2025-07-27 14:43:18'),
+	(9, '5-0.png', '头像 9', 1, '2025-07-27 14:44:07'),
+	(10, '5-1.png', '头像 10', 1, '2025-07-27 14:44:17'),
+	(11, '6-0.png', '头像 11', 1, '2025-07-27 14:45:20'),
+	(12, '6-1.png', '头像 12', 1, '2025-07-27 14:45:30'),
+	(13, '7-0.png', '头像 13', 1, '2025-07-27 14:45:49'),
+	(14, '7-1.png', '头像 14', 1, '2025-07-27 14:47:55'),
+	(15, '8-0.png', '头像 15', 1, '2025-07-27 14:48:09'),
+	(16, '8-1.png', '头像 16', 1, '2025-07-27 14:48:20'),
+	(17, '10-0.png', '头像 17', 1, '2025-07-27 14:48:48'),
+	(18, '10-1.png', '头像 18', 1, '2025-07-27 18:53:56'),
+	(19, '11-0.png', '头像 19', 1, '2025-07-27 18:54:04'),
+	(20, '11-1.png', '头像 20', 1, '2025-07-27 18:54:14'),
+	(21, '28-0.png', '头像 21', 1, '2025-07-27 18:54:24'),
+	(22, '28-1.png', '头像 22', 1, '2025-07-27 18:54:36'),
+	(23, '32-0.png', '头像 23', 1, '2025-07-27 18:54:48'),
+	(24, '32-1.png', '头像 24', 1, '2025-07-27 18:54:57'),
+	(25, '37-0.png', '头像 25', 1, '2025-07-27 18:55:09'),
+	(26, '70-0.png', '头像 26', 1, '2025-07-27 18:55:18'),
+	(27, '70-1.png', '头像 27', 1, '2025-07-27 18:55:29');
 
 -- Listage de la structure de table sahtout_site. purchases
 CREATE TABLE IF NOT EXISTS `purchases` (
@@ -164,10 +164,10 @@ CREATE TABLE IF NOT EXISTS `server_news` (
   `title` varchar(100) NOT NULL,
   `slug` varchar(120) DEFAULT NULL,
   `content` text NOT NULL,
-  `posted_by` varchar(50) NOT NULL COMMENT 'GM/Admin name',
+  `posted_by` varchar(50) NOT NULL COMMENT 'GM/管理员名称',
   `post_date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `image_url` varchar(255) DEFAULT NULL COMMENT 'Optional image for news',
-  `is_important` tinyint(1) DEFAULT '0' COMMENT '1 for important/sticky news',
+  `image_url` varchar(255) DEFAULT NULL COMMENT '新闻的可选图片',
+  `is_important` tinyint(1) DEFAULT '0' COMMENT '1 表示重要/置顶新闻',
   `category` enum('update','event','maintenance','other') DEFAULT 'update',
   PRIMARY KEY (`id`),
   UNIQUE KEY `slug_unique` (`slug`)
@@ -216,26 +216,26 @@ CREATE TABLE IF NOT EXISTS `shop_items` (
 
 -- Listage des données de la table sahtout_site.shop_items : ~22 rows (environ)
 INSERT INTO `shop_items` (`item_id`, `category`, `name`, `description`, `image`, `point_cost`, `token_cost`, `stock`, `last_updated`, `entry`, `gold_amount`, `level_boost`, `at_login_flags`, `is_item`) VALUES
-	(1, 'Service', 'Level Boost 80', 'Instantly boosts your character to level 80.', 'img/shopimg/services/level_boost_80.jpg', 500, 0, 85, '2025-08-03 15:44:54', NULL, 0, 80, 0, 0),
-	(2, 'Mount', 'Swift Zhevra', 'A fast and stylish mount for your adventures.', 'img/shopimg/items/swift_zhevra.jpg', 0, 50, 45, '2025-08-02 04:14:59', 37719, 0, NULL, 0, 1),
-	(3, 'Pet', 'Proto drake whelp', 'A cute Proto drake pet to follow you.', 'img/shopimg/items/proto-drake-whelp.jpg', 300, 20, 67, '2025-10-05 21:50:34', 44721, 0, NULL, 0, 1),
-	(4, 'Gold', '1000 Gold', 'Add 1000 gold to your in-game wallet.', 'img/shopimg/gold/1000_gold.jpg', 200, 0, NULL, '2025-08-06 23:11:20', NULL, 1000, NULL, 0, 0),
-	(5, 'Service', 'Faction Change', 'Change faction (Alliance Horde)+gender+name', 'img/shopimg/services/faction_change.jpg', 600, 0, 18, '2025-08-18 08:58:15', NULL, 0, NULL, 64, 0),
-	(6, 'Mount', 'Invincible', 'A legendary flying mount.', 'img/shopimg/items/invincible.jpg', 0, 100, 19, '2025-08-18 06:43:52', 50818, 0, NULL, 0, 1),
-	(7, 'Pet', 'Dun Morogh Cub', 'A cute polarbear pet to follow you.', 'img/shopimg/items/dun-morogh-cub.jpg', 250, 10, 57, '2025-08-02 04:01:29', 44970, 0, NULL, 0, 1),
-	(8, 'Gold', '5000 Gold', 'Add 5000 gold you are almost Rich', 'img/shopimg/gold/5000_gold.jpg', 300, 500, 29, '2025-08-28 21:08:42', NULL, 5000, NULL, 0, 0),
-	(9, 'Gold', '10000 Gold', 'Add 10000 gold you are so rich', 'img/shopimg/gold/10000_gold.jpg', 200, 850, 18, '2025-10-07 16:12:38', NULL, 10000, NULL, 0, 0),
-	(10, 'Mount', 'Swift Spectral Tiger', 'A Beautiful Spectral mount', 'img/shopimg/items/swift_spect_tiger.jpg', 250, 100, 16, '2025-10-07 16:15:00', 49284, 0, NULL, 0, 1),
-	(11, 'Stuff', 'Heroic sword LK', 'glorenzelg high blade of the silver hand', 'img/shopimg/items/glorenzelg-high-bladesilver.jpg', 150, 100, 19, '2025-08-16 14:40:01', 50730, 0, NULL, 0, 1),
-	(12, 'Service', 'Level Boost 70', 'Instantly boosts your character to level 70.', 'img/shopimg/services/level_boost_70.avif', 300, 0, 46, '2025-10-05 21:50:41', NULL, 0, 70, 0, 0),
-	(21, 'Service', 'Character Rename', 'Rename your character in-game.', 'img/shopimg/services/rename.jpg', 100, 0, NULL, '2025-08-06 23:09:48', NULL, 0, NULL, 1, 0),
-	(22, 'Service', 'Gender Change', 'Customize Characters +name', 'img/shopimg/services/gender.jpg', 150, 0, NULL, '2025-07-30 00:41:50', NULL, 0, NULL, 8, 0),
-	(23, 'Service', 'Race Change', 'Race Change +gender+name', 'img/shopimg/services/race_change.jpg', 150, 100, NULL, '2025-08-02 04:12:33', NULL, 0, NULL, 128, 0),
-	(24, 'Mount', 'Ashes of al\'ar', NULL, 'img/shopimg/items/phnx.jpg', 150, 20, 3, '2025-10-05 21:55:05', 32458, 0, NULL, 0, 1),
-	(102, 'Stuff', 'Bulwark of Azzinoth Shield', 'Bulwark of Azzinoth shield', 'img/shopimg/items/shield.png', 300, 350, NULL, '2025-08-02 04:12:51', 32375, 0, NULL, 0, 1),
-	(103, 'Stuff', 'Warglaive of Azzinoth sword', NULL, 'img/shopimg/items/azzinoth_sword1.jpg', 199, 299, NULL, '2025-10-05 20:43:12', 32837, 0, NULL, 0, 1),
-	(104, 'Stuff', 'Thunderfury Sword', 'Thunderfury, Blessed Blade of the Windseeker', 'img/shopimg/items/thunderfury2.jpg', 200, 200, NULL, '2025-08-02 04:12:43', 19019, 0, NULL, 0, 1),
-	(105, 'Stuff', 'Onslaught Battle-Helm', 'Onslaught Battle-Helm', 'img/shopimg/items//warrior_helm.png', 150, 100, NULL, '2025-08-02 04:12:27', 30972, 0, NULL, 0, 1);
+	(1, 'Service', '等级提升 80', '立即将你的角色提升到 80 级。', 'img/shopimg/services/level_boost_80.jpg', 500, 0, 85, '2025-08-03 15:44:54', NULL, 0, 80, 0, 0),
+	(2, 'Mount', '迅捷斑马', '快速又时尚的坐骑，伴你冒险。', 'img/shopimg/items/swift_zhevra.jpg', 0, 50, 45, '2025-08-02 04:14:59', 37719, 0, NULL, 0, 1),
+	(3, 'Pet', '原始龙宝宝', '可爱的原始龙宠物，跟随你。', 'img/shopimg/items/proto-drake-whelp.jpg', 300, 20, 67, '2025-10-05 21:50:34', 44721, 0, NULL, 0, 1),
+	(4, 'Gold', '1000 金币', '向你的游戏内钱包添加 1000 金币。', 'img/shopimg/gold/1000_gold.jpg', 200, 0, NULL, '2025-08-06 23:11:20', NULL, 1000, NULL, 0, 0),
+	(5, 'Service', '阵营转换', '转换阵营（联盟 部落）+性别+名字', 'img/shopimg/services/faction_change.jpg', 600, 0, 18, '2025-08-18 08:58:15', NULL, 0, NULL, 64, 0),
+	(6, 'Mount', '无敌', '传说级飞行坐骑。', 'img/shopimg/items/invincible.jpg', 0, 100, 19, '2025-08-18 06:43:52', 50818, 0, NULL, 0, 1),
+	(7, 'Pet', '丹莫罗小熊', '可爱的北极熊宠物，跟随你。', 'img/shopimg/items/dun-morogh-cub.jpg', 250, 10, 57, '2025-08-02 04:01:29', 44970, 0, NULL, 0, 1),
+	(8, 'Gold', '5000 金币', '添加 5000 金币，你几乎算富有了', 'img/shopimg/gold/5000_gold.jpg', 300, 500, 29, '2025-08-28 21:08:42', NULL, 5000, NULL, 0, 0),
+	(9, 'Gold', '10000 金币', '添加 10000 金币，你太富有了', 'img/shopimg/gold/10000_gold.jpg', 200, 850, 18, '2025-10-07 16:12:38', NULL, 10000, NULL, 0, 0),
+	(10, 'Mount', '迅捷幽灵虎', '美丽的幽灵坐骑', 'img/shopimg/items/swift_spect_tiger.jpg', 250, 100, 16, '2025-10-07 16:15:00', 49284, 0, NULL, 0, 1),
+	(11, 'Stuff', '英雄剑 LK', '格罗伦泽尔格，银色之手的高刃', 'img/shopimg/items/glorenzelg-high-bladesilver.jpg', 150, 100, 19, '2025-08-16 14:40:01', 50730, 0, NULL, 0, 1),
+	(12, 'Service', '等级提升 70', '立即将你的角色提升到 70 级。', 'img/shopimg/services/level_boost_70.avif', 300, 0, 46, '2025-10-05 21:50:41', NULL, 0, 70, 0, 0),
+	(21, 'Service', '角色改名', '在游戏中重命名你的角色。', 'img/shopimg/services/rename.jpg', 100, 0, NULL, '2025-08-06 23:09:48', NULL, 0, NULL, 1, 0),
+	(22, 'Service', '性别转换', '自定义角色 +名字', 'img/shopimg/services/gender.jpg', 150, 0, NULL, '2025-07-30 00:41:50', NULL, 0, NULL, 8, 0),
+	(23, 'Service', '种族转换', '种族转换 +性别+名字', 'img/shopimg/services/race_change.jpg', 150, 100, NULL, '2025-08-02 04:12:33', NULL, 0, NULL, 128, 0),
+	(24, 'Mount', '奥的灰烬', NULL, 'img/shopimg/items/phnx.jpg', 150, 20, 3, '2025-10-05 21:55:05', 32458, 0, NULL, 0, 1),
+	(102, 'Stuff', '埃辛诺斯壁垒盾牌', '埃辛诺斯壁垒盾牌', 'img/shopimg/items/shield.png', 300, 350, NULL, '2025-08-02 04:12:51', 32375, 0, NULL, 0, 1),
+	(103, 'Stuff', '埃辛诺斯战刃剑', NULL, 'img/shopimg/items/azzinoth_sword1.jpg', 199, 299, NULL, '2025-10-05 20:43:12', 32837, 0, NULL, 0, 1),
+	(104, 'Stuff', '雷霆之怒剑', '雷霆之怒，逐风者的祝福之剑', 'img/shopimg/items/thunderfury2.jpg', 200, 200, NULL, '2025-08-02 04:12:43', 19019, 0, NULL, 0, 1),
+	(105, 'Stuff', '狂战战斗头盔', '狂战战斗头盔', 'img/shopimg/items//warrior_helm.png', 150, 100, NULL, '2025-08-02 04:12:27', 30972, 0, NULL, 0, 1);
 
 -- Listage de la structure de table sahtout_site. site_items
 CREATE TABLE IF NOT EXISTS `site_items` (
@@ -384,20 +384,20 @@ CREATE TABLE IF NOT EXISTS `site_items` (
 
 -- Listage des données de la table sahtout_site.site_items : ~15 rows (environ)
 INSERT INTO `site_items` (`entry`, `class`, `subclass`, `SoundOverrideSubclass`, `name`, `displayid`, `Quality`, `Flags`, `FlagsExtra`, `BuyCount`, `BuyPrice`, `SellPrice`, `InventoryType`, `AllowableClass`, `AllowableRace`, `ItemLevel`, `RequiredLevel`, `RequiredSkill`, `RequiredSkillRank`, `requiredspell`, `requiredhonorrank`, `RequiredCityRank`, `RequiredReputationFaction`, `RequiredReputationRank`, `maxcount`, `stackable`, `ContainerSlots`, `stat_type1`, `stat_value1`, `stat_type2`, `stat_value2`, `stat_type3`, `stat_value3`, `stat_type4`, `stat_value4`, `stat_type5`, `stat_value5`, `stat_type6`, `stat_value6`, `stat_type7`, `stat_value7`, `stat_type8`, `stat_value8`, `stat_type9`, `stat_value9`, `stat_type10`, `stat_value10`, `ScalingStatDistribution`, `ScalingStatValue`, `dmg_min1`, `dmg_max1`, `dmg_type1`, `dmg_min2`, `dmg_max2`, `dmg_type2`, `armor`, `holy_res`, `fire_res`, `nature_res`, `frost_res`, `shadow_res`, `arcane_res`, `delay`, `ammo_type`, `RangedModRange`, `spellid_1`, `spelltrigger_1`, `spellcharges_1`, `spellppmRate_1`, `spellcooldown_1`, `spellcategory_1`, `spellcategorycooldown_1`, `spellid_2`, `spelltrigger_2`, `spellcharges_2`, `spellppmRate_2`, `spellcooldown_2`, `spellcategory_2`, `spellcategorycooldown_2`, `spellid_3`, `spelltrigger_3`, `spellcharges_3`, `spellppmRate_3`, `spellcooldown_3`, `spellcategory_3`, `spellcategorycooldown_3`, `spellid_4`, `spelltrigger_4`, `spellcharges_4`, `spellppmRate_4`, `spellcooldown_4`, `spellcategory_4`, `spellcategorycooldown_4`, `spellid_5`, `spelltrigger_5`, `spellcharges_5`, `spellppmRate_5`, `spellcooldown_5`, `spellcategory_5`, `spellcategorycooldown_5`, `bonding`, `description`, `PageText`, `LanguageID`, `PageMaterial`, `startquest`, `lockid`, `Material`, `sheath`, `RandomProperty`, `RandomSuffix`, `block`, `itemset`, `MaxDurability`, `area`, `Map`, `BagFamily`, `TotemCategory`, `socketColor_1`, `socketContent_1`, `socketColor_2`, `socketContent_2`, `socketColor_3`, `socketContent_3`, `socketBonus`, `GemProperties`, `RequiredDisenchantSkill`, `ArmorDamageModifier`, `duration`, `ItemLimitCategory`, `HolidayId`, `ScriptName`, `DisenchantID`, `FoodType`, `minMoneyLoot`, `maxMoneyLoot`, `flagsCustom`, `VerifiedBuild`) VALUES
-	(19019, 2, 7, -1, 'Thunderfury, Blessed Blade of the Windseeker', 30606, 5, 0, 0, 1, 615704, 123140, 13, -1, -1, 80, 60, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 3, 5, 7, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 115, 0, 16, 30, 3, 0, 0, 8, 9, 0, 0, 0, 1900, 0, 0, 21992, 2, 0, 4, -1, 0, -1, 0, 2, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -20, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
-	(30969, 4, 4, -1, 'Onslaught Gauntlets', 45659, 4, 4096, 0, 1, 0, 0, 10, 1, 32767, 146, 70, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 41, 3, 30, 7, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1141, 0, 0, 0, 0, 0, 0, 0, 0, 0, 42094, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 672, 55, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 2902, 0, 300, 0, 0, 0, 0, '', 67, 0, 0, 0, 0, 12340),
-	(30972, 4, 4, -1, 'Onslaught Battle-Helm', 49684, 4, 4096, 0, 1, 0, 0, 1, 1, 32767, 146, 70, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 54, 3, 41, 7, 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1483, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39925, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 672, 100, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0, 2927, 0, 300, 0, 0, 0, 0, '', 67, 0, 0, 0, 0, 12340),
-	(30975, 4, 4, -1, 'Onslaught Breastplate', 45658, 4, 4096, 0, 1, 0, 0, 5, 1, 32767, 146, 70, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 53, 3, 34, 7, 54, 31, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1825, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40680, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 672, 165, 0, 0, 0, 0, 2, 0, 8, 0, 8, 0, 2952, 0, 300, 0, 0, 0, 0, '', 67, 0, 0, 0, 0, 12340),
-	(32375, 4, 6, -1, 'Bulwark of Azzinoth', 45653, 4, 0, 0, 1, 472692, 94538, 14, -1, -1, 151, 70, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, 40, 12, 26, 4, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6336, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40407, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 6, 4, 0, 0, 174, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 300, 0, 0, 0, 0, '', 67, 0, 0, 0, 0, 12340),
-	(32458, 15, 5, -1, 'Ashes of Al\'ar', 44872, 4, 0, 0, 1, 1000000, 0, 0, -1, -1, 70, 70, 762, 300, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, 0, 0, -1, 330, 3000, 40192, 6, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, 'Teaches you how to summon this mount.  Can only be summoned in Outland or Northrend.  This is an extremely fast mount.', 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
-	(32837, 2, 7, -1, 'Warglaive of Azzinoth', 45479, 5, 0, 0, 1, 1215564, 243112, 21, 9, 32767, 156, 70, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 3, 22, 7, 29, 31, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 214, 398, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2800, 0, 0, 15810, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 699, 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
-	(32838, 2, 7, -1, 'Warglaive of Azzinoth', 45481, 5, 0, 0, 1, 1219873, 243974, 22, 9, 32767, 156, 70, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 3, 21, 7, 28, 32, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 107, 199, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1400, 0, 0, 15810, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 699, 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
-	(37719, 15, 5, -1, 'Swift Zhevra', 49950, 4, 0, 0, 1, 100000, 0, 0, 262143, -1, 40, 40, 762, 150, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, 0, 0, -1, 330, 3000, 49322, 6, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, 'Teaches you how to summon this mount.  This is a very fast mount.', 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
-	(44721, 15, 2, 0, 'Proto-Drake Whelp', 57246, 1, 0, 0, 1, 10000, 2500, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, -1, 0, 1000, 0, -1, 61350, 6, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 'Teaches you how to summon and dismiss this companion.', 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
-	(44970, 15, 2, -1, 'Dun Morogh Cub', 57877, 3, 4160, 0, 1, 0, 0, 0, -1, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, -1, 0, -1, 0, -1, 62508, 6, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 'Teaches you how to summon this companion.', 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4096, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 9767),
-	(49284, 15, 5, -1, 'Reins of the Swift Spectral Tiger', 59462, 4, 0, 0, 1, 100000, 0, 0, 262143, 2147483647, 40, 40, 762, 150, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, -1, 0, -1, 330, 3000, 42777, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'Teaches you how to summon this mount.  This is a very fast mount.', 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 10314),
-	(50730, 2, 8, -1, 'Glorenzelg, High-Blade of the Silver Hand', 64397, 4, 8, 0, 1, 1663877, 332775, 17, -1, -1, 284, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 198, 7, 222, 32, 122, 37, 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 991, 1487, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3600, 0, 0, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, 'Paragon of the Light, lead our armies against the coming darkness.', 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 120, 0, 0, 0, 0, 2, 0, 2, 0, 2, 0, 3312, 0, 375, 0, 0, 0, 0, '', 68, 0, 0, 0, 0, 11159),
-	(50818, 15, 5, -1, 'Invincible\'s Reins', 58122, 4, 32768, 0, 1, 0, 0, 0, 262143, 32767, 20, 20, 762, 75, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 483, 0, 0, 0, -1, 330, 3000, 72286, 6, 0, 0, -1, 0, 3000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 'Teaches you how to summon this mount.', 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 11159);
+	(19019, 2, 7, -1, '雷霆之怒，逐风者的祝福之剑', 30606, 5, 0, 0, 1, 615704, 123140, 13, -1, -1, 80, 60, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 3, 5, 7, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 115, 0, 16, 30, 3, 0, 0, 8, 9, 0, 0, 0, 1900, 0, 0, 21992, 2, 0, 4, -1, 0, -1, 0, 2, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -20, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
+	(30969, 4, 4, -1, '狂战护手', 45659, 4, 4096, 0, 1, 0, 0, 10, 1, 32767, 146, 70, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 41, 3, 30, 7, 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1141, 0, 0, 0, 0, 0, 0, 0, 0, 0, 42094, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 672, 55, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 2902, 0, 300, 0, 0, 0, 0, '', 67, 0, 0, 0, 0, 12340),
+	(30972, 4, 4, -1, '狂战战斗头盔', 49684, 4, 4096, 0, 1, 0, 0, 1, 1, 32767, 146, 70, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 54, 3, 41, 7, 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1483, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39925, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 672, 100, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0, 2927, 0, 300, 0, 0, 0, 0, '', 67, 0, 0, 0, 0, 12340),
+	(30975, 4, 4, -1, '狂战胸甲', 45658, 4, 4096, 0, 1, 0, 0, 5, 1, 32767, 146, 70, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 53, 3, 34, 7, 54, 31, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1825, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40680, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 672, 165, 0, 0, 0, 0, 2, 0, 8, 0, 8, 0, 2952, 0, 300, 0, 0, 0, 0, '', 67, 0, 0, 0, 0, 12340),
+	(32375, 4, 6, -1, '埃辛诺斯壁垒', 45653, 4, 0, 0, 1, 472692, 94538, 14, -1, -1, 151, 70, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, 40, 12, 26, 4, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6336, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40407, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 6, 4, 0, 0, 174, 0, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 300, 0, 0, 0, 0, '', 67, 0, 0, 0, 0, 12340),
+	(32458, 15, 5, -1, '奥的灰烬', 44872, 4, 0, 0, 1, 1000000, 0, 0, -1, -1, 70, 70, 762, 300, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, 0, 0, -1, 330, 3000, 40192, 6, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '教你如何召唤这个坐骑。只能在外域或诺森德召唤。这是极快的坐骑。', 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
+	(32837, 2, 7, -1, '埃辛诺斯战刃', 45479, 5, 0, 0, 1, 1215564, 243112, 21, 9, 32767, 156, 70, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 3, 22, 7, 29, 31, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 214, 398, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2800, 0, 0, 15810, 1, 0, 0, -1, 0, -1, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 699, 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
+	(32838, 2, 7, -1, '埃辛诺斯战刃', 45481, 5, 0, 0, 1, 1219873, 243974, 22, 9, 32767, 156, 70, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 3, 21, 7, 28, 32, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 107, 199, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1400, 0, 0, 15810, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '', 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 699, 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
+	(37719, 15, 5, -1, '迅捷斑马', 49950, 4, 0, 0, 1, 100000, 0, 0, 262143, -1, 40, 40, 762, 150, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, 0, 0, -1, 330, 3000, 49322, 6, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '教你如何召唤这个坐骑。这是非常快的坐骑。', 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
+	(44721, 15, 2, 0, '原始龙宝宝', 57246, 1, 0, 0, 1, 10000, 2500, 0, -1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, -1, 0, 1000, 0, -1, 61350, 6, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, '教你如何召唤和解散这个小伙伴。', 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 12340),
+	(44970, 15, 2, -1, '丹莫罗小熊', 57877, 3, 4160, 0, 1, 0, 0, 0, -1, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, -1, 0, -1, 0, -1, 62508, 6, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, '教你如何召唤这个小伙伴。', 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4096, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 9767),
+	(49284, 15, 5, -1, '迅捷幽灵虎缰绳', 59462, 4, 0, 0, 1, 100000, 0, 0, 262143, 2147483647, 40, 40, 762, 150, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55884, 0, -1, 0, -1, 330, 3000, 42777, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, '教你如何召唤这个坐骑。这是非常快的坐骑。', 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 10314),
+	(50730, 2, 8, -1, '格罗伦泽尔格，银色之手的高刃', 64397, 4, 8, 0, 1, 1663877, 332775, 17, -1, -1, 284, 80, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 198, 7, 222, 32, 122, 37, 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 991, 1487, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3600, 0, 0, 0, 1, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 0, 0, 0, 0, -1, 0, -1, 1, '圣光的典范，带领我们的军队对抗即将到来的黑暗。', 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 120, 0, 0, 0, 0, 2, 0, 2, 0, 2, 0, 3312, 0, 375, 0, 0, 0, 0, '', 68, 0, 0, 0, 0, 11159),
+	(50818, 15, 5, -1, '无敌缰绳', 58122, 4, 32768, 0, 1, 0, 0, 0, 262143, 32767, 20, 20, 762, 75, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 483, 0, 0, 0, -1, 330, 3000, 72286, 6, 0, 0, -1, 0, 3000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, '教你如何召唤这个坐骑。', 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, 0, 0, 0, 0, '', 0, 0, 0, 0, 0, 11159);
 
 -- Listage de la structure de table sahtout_site. user_currencies
 CREATE TABLE IF NOT EXISTS `user_currencies` (
@@ -474,10 +474,10 @@ CREATE TABLE IF NOT EXISTS `vote_sites` (
 INSERT INTO `vote_sites` (`id`, `callback_file_name`, `site_name`, `siteid`, `url_format`, `button_image_url`, `cooldown_hours`, `reward_points`, `uses_callback`, `callback_secret`) VALUES
 	(105168, 'gtop100', 'GTOP100', '105163', 'https://gtop100.com/wow-private-servers/server-{siteid}?vote=1&pingUsername={username}', 'img/voteimg/gtop100.com.jpg', 12, 100, 1, 'gtop100CODE'),
 	(105169, 'topg', 'topg', '675795', 'https://topg.org/wow-private-servers/server-{siteid}-{userid}', 'https://topg.org/topg2.gif', 2, 70, 1, ''),
-	(105174, 'arenatop100', 'Arena-Top100', 'blody2', 'https://www.arena-top100.com/index.php?a=in&u={siteid}&id={userid}', 'https://www.arena-top100.com/images/arena-top100.png', 1, 60, 1, 'arena-top100CODE'),
-	(105175, 'top100arena', 'Top100arena', '101743', 'https://www.top100arena.com/listing/{siteid}/vote?incentive={userid}', 'https://www.top100arena.com/rankbadge/101743', 1, 90, 1, ''),
-	(105176, 'mmohub', 'mmohub', '1110', 'https://www.mmohub.com/site/{siteid}/vote/{userid}', 'https://mmohub.com/vote.jpg', 1, 100, 1, '0'),
-	(105177, 'private_server', 'private_serverws', 'blody', 'https://private-server.ws/index.php?a=in&u={siteid}&id={userid}', 'https://private-server.ws/button.php?u=blody&buttontype=static', 12, 100, 1, '0'),
+	(105174, 'arenatop100', '竞技场 Top100', 'blody2', 'https://www.arena-top100.com/index.php?a=in&u={siteid}&id={userid}', 'https://www.arena-top100.com/images/arena-top100.png', 1, 60, 1, 'arena-top100CODE'),
+	(105175, 'top100arena', 'Top100 竞技场', '101743', 'https://www.top100arena.com/listing/{siteid}/vote?incentive={userid}', 'https://www.top100arena.com/rankbadge/101743', 1, 90, 1, ''),
+	(105176, 'mmohub', 'MMOHub', '1110', 'https://www.mmohub.com/site/{siteid}/vote/{userid}', 'https://mmohub.com/vote.jpg', 1, 100, 1, '0'),
+	(105177, 'private_server', 'Private Server WS', 'blody', 'https://private-server.ws/index.php?a=in&u={siteid}&id={userid}', 'https://private-server.ws/button.php?u=blody&buttontype=static', 12, 100, 1, '0'),
 	(105178, 'xtremetop100', 'XtremeTop100', '1132377856', 'https://www.xtremetop100.com/in.php?site={siteid}&postback={userid}', 'https://www.xtremetop100.com/votenew.jpg', 12, 70, 1, '0');
 
 -- Listage de la structure de table sahtout_site. website_activity_log
@@ -645,7 +645,7 @@ CREATE TRIGGER `before_site_items_insert` BEFORE INSERT ON `site_items` FOR EACH
     ELSE
         -- Prevent insertion if entry doesn't exist in item_template
         SIGNAL SQLSTATE '45000'
-        SET MESSAGE_TEXT = 'Invalid entry: No matching entry found in item_template';
+        SET MESSAGE_TEXT = '无效entry: 在item_template中找不到匹配entry';
     END IF;
 END//
 DELIMITER ;

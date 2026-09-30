@@ -38,7 +38,7 @@ BEGIN
         WHERE guid = p_character_guid
     ) THEN
         SIGNAL SQLSTATE '45000'
-            SET MESSAGE_TEXT = 'Invalid character GUID';
+            SET MESSAGE_TEXT = '无效的角色 GUID';
     END IF;
 
     /*
@@ -67,7 +67,7 @@ BEGIN
      */
     IF v_item_name IS NULL THEN
         SIGNAL SQLSTATE '45000'
-            SET MESSAGE_TEXT = 'Invalid item ID';
+            SET MESSAGE_TEXT = '无效的物品 item ID';
     END IF;
 
     /*
@@ -170,8 +170,8 @@ BEGIN
         0,
         0,
         p_character_guid,
-        CONCAT('Store Purchase: ', v_item_name),
-        CONCAT('Thank you for your purchase of ', v_item_name, '!'),
+        CONCAT('商店购买：', v_item_name),
+        CONCAT('感谢您购买', v_item_name, '!'),
         1,
         UNIX_TIMESTAMP() + (30 * 24 * 3600),
         UNIX_TIMESTAMP(),

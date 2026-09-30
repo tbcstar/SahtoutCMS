@@ -1,5 +1,5 @@
-🚨 Important:
-- If your site was installed before then use only the latest single update SQL file.
-- This update will modify/add only the new tables/features without affecting your existing data.
+🚨重要事项:
+-如果您的站点之前已安装，则仅使用最新的单一更新SQL文件。
+-此更新将仅修改/添加新的表/功能，而不会影响您的现有数据。
 
-Tip: Always backup your database before importing updates.
+提示:在导入更新之前，请务必备份您的数据库。
