@@ -599,8 +599,8 @@ function formatServerUptime($seconds) {
             <!-- Alliance vs Horde Faction Ratio Bar (unchanged) -->
             <div class="px-2.5 py-2 bg-black/40 border border-[rgba(201,162,39,.12)] clip-realm-inner mb-2 space-y-1.5">
                 <div class="flex justify-between text-[10px] font-semibold tracking-wider uppercase">
-                    <span class="text-blue-400">Alliance: <?php echo $isOnline ? number_format($allianceCount) : '—'; ?></span>
-                    <span class="text-red-400">Horde: <?php echo $isOnline ? number_format($hordeCount) : '—'; ?></span>
+                    <span class="text-blue-400">联盟: <?php echo $isOnline ? number_format($allianceCount) : '—'; ?></span>
+                    <span class="text-red-400">部落: <?php echo $isOnline ? number_format($hordeCount) : '—'; ?></span>
                 </div>
                 <div class="h-2 w-full bg-red-950/80 overflow-hidden flex clip-realm-icon border border-[rgba(201,162,39,.15)]">
                     <div class="bg-blue-600 h-full shadow-[0_0_8px_rgba(37,99,235,0.6)] transition-all duration-500" style="width: <?php echo $isOnline ? $alliancePct : 50; ?>%;"></div>
